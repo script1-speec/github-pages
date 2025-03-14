@@ -1,0 +1,36 @@
+**Sistema de leave logs
+Sistema de painel admin
+Sistema de player info
+Sistema de admins no jogo ou pessoas com poder de adm
+Sistema de economia (Remover, adicionar e resetar 3 tipos de dinheiro)
+Sistema de add e remove carros (so funciona com meu sistema de concessionaria <#1319361484115148832> )
+Sistema de anuncios
+Sistema de level (sÃ³ funciona se tu tiver o ValoresSalvados completo e eu nao vendo)
+Sistema de adicionar e remover tools
+Sistema de excluir facÃ§Ãµes (funciona com o sistema de <#1319362369746374679> )
+Comandos:
+/REVISTARBAU (MT UTIL)
+/REVISTAR (pessoas mortas e se estiver no time staff tu consegue revistar qualquer um e ngm consegue te revistar
+/track
+/untrack ou rv
+/to
+/bring
+/jail
+/setmessage
+/jump
+/ban
+/unban
+/warn
+/unwarn
+/fly
+/mod
+/adm
+/unmod
+/unadmin
+/creator
+/uncreator
+/owner
+/unowner
+/kick
+/rejoin
+/age**
